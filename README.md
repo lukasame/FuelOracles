@@ -1,3 +1,3 @@
 # Defi
-jf2
+jf23
 In-depth documentation on Defi is available at [fuel](https://fuel.network/)
